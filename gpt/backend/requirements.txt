@@ -1,0 +1,6 @@
+python-dotenv
+uvicorn
+fastapi
+sqlmodel
+pydantic[email]
+google.generativeai
